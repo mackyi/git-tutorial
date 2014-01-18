@@ -1,0 +1,5 @@
+git clone "url"
+git pull
+git add -A
+git commit --all "message"
+git push origin master
